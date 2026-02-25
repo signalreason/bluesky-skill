@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bluesky Developer APIs"
+  short_description: "Implement and debug Bluesky and AT Protocol APIs"
+  default_prompt: "Use $bluesky-developer-apis to implement and troubleshoot a Bluesky API integration with correct auth, XRPC calls, and pagination."
